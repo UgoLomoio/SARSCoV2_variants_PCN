@@ -1,0 +1,15 @@
+variant,n°. communities,n°. mutations,mutations for each comminity
+Wild Type,22,0,{}
+Epsilon,22,4,"{'UM': 1, 'Community 0': 1, 'Community 4': 1, 'Community 16': 1}"
+Zeta,19,3,"{'Community 9': 1, 'Community 8': 1, 'UM': 1}"
+Beta,21,8,"{'Community 4': 3, 'Community 15': 3, 'Community 11': 1, 'Community 7': 1}"
+Alpha,22,7,"{'Community 10': 1, 'Community 11': 1, 'Community 12': 2, 'Community 18': 2, 'Community 6': 1}"
+Delta,22,6,"{'Community 1': 3, 'Community 15': 2, 'Community 0': 1}"
+Kappa,23,5,"{'Community 1': 2, 'Community 15': 2, 'Community 5': 1}"
+Gamma,19,8,"{'Community 3': 2, 'Community 6': 2, 'Community 16': 1, 'Community 10': 2, 'Community 4': 1}"
+Iota1,21,5,"{'UM': 1, 'Community 2': 2, 'Community 15': 1, 'Community 9': 1}"
+Iota2,21,5,"{'UM': 1, 'Community 0': 2, 'Community 15': 1, 'Community 8': 1}"
+Eta,24,6,"{'Community 19': 2, 'Community 1': 1, 'Community 12': 2, 'Community 10': 1}"
+Ihu,24,13,"{'Community 15': 1, 'Community 1': 4, 'Community 7': 3, 'Community 12': 2, 'Community 0': 2, 'UM': 1}"
+Omicron1,20,30,"{'Community 2': 4, 'Community 5': 15, 'Community 7': 1, 'Community 9': 4, 'Community 13': 4, 'Community 0': 2}"
+Omicron5,19,27,"{'Community 2': 10, 'Community 7': 8, 'Community 17': 1, 'Community 3': 4, 'Community 13': 2, 'Community 0': 2}"
